@@ -1,0 +1,8 @@
+prefix=/home/vtp/wspace/devel
+
+Name: tbot_stuffs
+Description: Description of tbot_stuffs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

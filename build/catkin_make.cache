@@ -1,0 +1,2 @@
+realsense/realsense2_camera:realsense/realsense2_description:tbot_stuffs:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/vtp/wspace/devel -DCMAKE_INSTALL_PREFIX=/home/vtp/wspace/install -G Unix Makefiles

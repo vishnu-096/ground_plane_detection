@@ -1,0 +1,8 @@
+prefix=/home/vtp/wspace/install
+
+Name: realsense2_description
+Description: Description of realsense2_description
+Version: 1003.3.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
